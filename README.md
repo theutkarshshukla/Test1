@@ -4,3 +4,5 @@ We are creating 3D models of 2D maps using ai,  providing users with immersive v
 Our intend is to use ai with help of "ARcore SDK" to identify various elements on A map of property provided by user or building's owner to place walls and doors at location identified with help of "Unity" on map, thus converting any 2d map into a 3d model. This 3d model can immediately be accessed by user via AR through our app.
 We are building our app using "unity" (to implement AR core SDK) and "Flutter" (to give a fluid and smooth user experience).
 This feature is to build a fast user base . As we intend to make this feature free.
+
+Our project will also have option to view those 3d simulation on VR for users who would prefer that.
